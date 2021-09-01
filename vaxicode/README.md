@@ -32,7 +32,7 @@ Voici un scénario plausible qui illustre le déroulement de l’exploit dans un
 noter que ce scénario et l’exploit décrit ci-dessous n’est pas nécessairement le même que celui montré Radio-Canada et
 trouvé par l’informaticien.
 
-Kevin se présente à son restaurant préféré avec ses amis. Kelvin présente son téléphone avec l’application VaxiCode à
+Kevin se présente à son restaurant préféré avec ses amis. Kevin présente son téléphone avec l’application VaxiCode à
 l’hôtesse du restaurant. L’hôtesse fait la lecture du code QR avec l’application VaxiCode Verif, mais celui-ci est
 refusé et affiche un message d’erreur. Kevin s’excuse, se met de côté et laisse passer ses amis avant lui. Alors,
 l’hôtesse fait la lecture des codes QR de tous les amis de Kevin et tous sont validés avec succès. Finalement, Kevin
